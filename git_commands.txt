@@ -1,8 +1,16 @@
-<<<<<<< Updated upstream
+<<<<<<< 
+
 " git stash = ( it hides the new files and stuff ) " 
+
 " git stash list = ( it checks if are there any stashed files/folders ) "  
+
 " git stash pop = ( it pops out all the stashed files/folders ) "  
-=======
-"hello world" 
->>>>>>> Stashed changes
+
+
+>>>>>>> 
+
 " git stash save ' text message ' = ( it adds a stash text message ) "  
+
+" git stash pop = (it pops the latest file/folder from stash) "  
+
+" git stash apply = ( same as git stash apply except it leaves the stash the way it is ) "  
