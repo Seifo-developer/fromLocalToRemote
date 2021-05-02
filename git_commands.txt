@@ -5,3 +5,4 @@
 =======
 "hello world" 
 >>>>>>> Stashed changes
+" git stash save ' text message ' = ( it adds a stash text message ) "  
