@@ -14,3 +14,5 @@
 " git stash pop = (it pops the latest file/folder from stash) "  
 
 " git stash apply = ( same as git stash apply except it leaves the stash the way it is ) "  
+" git stash pop/apply/show stash@{id} = (it will pop/apply/show the selected stash by the id) "  
+" git stash clear = ( it'll clear out the whole stash ) "  
