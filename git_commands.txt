@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
 " git stash = ( it hides the new files and stuff ) " 
 " git stash list = ( it checks if are there any stashed files/folders ) "  
 " git stash pop = ( it pops out all the stashed files/folders ) "  
+=======
+"hello world" 
+>>>>>>> Stashed changes
